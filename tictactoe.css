@@ -1,0 +1,16 @@
+.ttt-grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 115px);
+}
+
+.ttt-grid-container button {
+  background-color: white;
+  font-size: 100px;
+  padding: 0px;
+  height: 115px;
+  width: 115px;
+}
+
+.reset-button {
+  margin-top: 10px;
+}
